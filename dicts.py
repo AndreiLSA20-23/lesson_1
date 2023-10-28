@@ -1,3 +1,4 @@
+'''1111112'''
 """
 product = {"name":"Iphone 12", 'stock':24, "price":76459.32 }
 product['mem']=512
@@ -17,3 +18,4 @@ stock[0]['recommends'].append('Xiaomi Mi11')
 stock[2]['price']-=30000
 print(stock)
 
+[1,]
